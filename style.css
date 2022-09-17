@@ -1,0 +1,18 @@
+*{
+    background-color: rgb(50, 81, 82);
+}
+.Canvas{
+    width: 760px;
+    height: 760px;
+    margin:auto;
+    margin-top: 100px;
+}
+.Container{
+    text-align: center;
+    width: 40px;
+    height: 40px;
+    outline: 1px solid;
+    outline-color: rgb(50, 81, 82);
+    float: left;
+    background-color: rgb(84, 107, 62);
+}
